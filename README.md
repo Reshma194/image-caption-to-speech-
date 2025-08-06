@@ -44,7 +44,7 @@ torch – required for running models
 torchaudio – TTS backend audio support
 
 ---
-Output
+## Output
 Caption Generated: "A girl standing in front of a mountain"
 
 Audio File: caption_audio.wav with spoken version of the caption
